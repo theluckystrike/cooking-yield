@@ -1,0 +1,13 @@
+[package]
+name = "cooking-yield"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "Raw-to-cooked weight conversion with USDA cooking yields, and calorie density before and after cooking"
+homepage = "https://recipetool.net/tools/raw-to-cooked-weight-calculator"
+repository = "https://github.com/theluckystrike/cooking-yield"
+readme = "README.md"
+keywords = ["nutrition", "cooking", "calories", "recipe", "usda"]
+categories = ["science", "mathematics"]
+
+[dependencies]
